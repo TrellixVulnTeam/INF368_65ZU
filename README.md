@@ -1,3 +1,3 @@
-# LearningMachineLearning
+# INF368
 
-Repo for doing ml tutorials and  projects
+Repo for doing RL homework and projects
